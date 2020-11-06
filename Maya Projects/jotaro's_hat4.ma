@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
-//Name: jotaro's_hat3.ma
-//Last modified: Fri, Nov 06, 2020 12:20:57 PM
+//Name: jotaro's_hat4.ma
+//Last modified: Fri, Nov 06, 2020 12:21:07 PM
 //Codeset: UTF-8
 requires maya "2019";
 requires "mtoa" "3.1.2";
@@ -3983,4 +3983,4 @@ connectAttr "groupId14.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId15.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId16.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId17.msg" ":initialShadingGroup.gn" -na;
-// End of jotaro's_hat3.ma
+// End of jotaro's_hat4.ma
